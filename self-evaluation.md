@@ -7,4 +7,4 @@
 - What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
   - I'm hoping to schedule in some time this evening to pre read some of the lessons for tomorrow. Taking my time reading the lessons is something that really helps me understand them.
 - What questions do you still have? How will you get the answers you need?
-  - I know that loops can sometimes be used in similar ways as each. It makes me wonder if we'll see loops in Mod 1 or if they've mostly been replaced by methods like each?
+  -One question I have is what happens if you do an assignment, push to github and then realize you want to make changes on it. Can you add, commit and then push again? I definitely need to do some googling.
