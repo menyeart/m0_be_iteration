@@ -1,6 +1,10 @@
 # Self Evaluation
 
 - How confident do you feel in your understanding and fluency with the `each` method?
+  - I think pretty well in this context. I did some free online coding stuff previously so I'm lucky to have seen this before. That being said, using the each method on day 3 makes me wonder how quick Mod 1 will go. I really like to take my time when I read the lessons and take notes so sometimes it feels like it takes me a lot longer than it should to do the exercises. 
 - This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
+  - I didn't feel too bad in this case, but the each method was one of the things I struggled with the most previously. Seeing it now, it seems somewhat straightforward, iterating over an array and then implementing code on each element. Previously, for some reason I just couldn't wrap my head around the word in pipes for the single element. Seeing an combo like `people = [...` and then the singular element `|person|` I'd get caught up in thinking that the program would only iterate over the array if you wrote the very specific correct singular version of the array name. When I figured out it was based on the rest of the code and it would still run the method with pretty much anything written in there it was a pretty big ah ha moment. There was definitly some pretty notable unproductive struggling.
 - What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
+  - I'm hoping to schedule in some time this evening to pre read some of the lessons for tomorrow. Taking my time reading the lessons is something that really helps me understand them.
 - What questions do you still have? How will you get the answers you need?
+  - I know that loops can sometimes be used in similar ways as each. It makes me wonder if we'll see loops in Mod 1 or if they've mostly been replaced by methods like each?
